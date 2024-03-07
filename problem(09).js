@@ -1,0 +1,1 @@
+// Solve this code- marks = int(input(4.67)) if marks >= 80: print("very good") elif marks >= 50 and marks < 80: print("good") else: print("need to improve")

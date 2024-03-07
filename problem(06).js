@@ -1,0 +1,1 @@
+// Input 3 numbers and print a maximum between three numbers
