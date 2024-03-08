@@ -6,7 +6,7 @@ function fibonacci(x) {
   console.log(b);
 
   var sum = 0;
-  for (i = 1; i <= x; i++) {
+  for (let i = 1; i <= x; i++) {
     sum = a + b
     c = a + b;
     a = b;
