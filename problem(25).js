@@ -1,0 +1,1 @@
+// Write a javascript function to find Max of three numbers.

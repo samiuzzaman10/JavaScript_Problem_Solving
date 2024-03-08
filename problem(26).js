@@ -1,0 +1,1 @@
+// Write a javascript function to sum all the numbers in a list

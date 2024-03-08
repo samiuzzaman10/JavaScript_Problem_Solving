@@ -1,0 +1,1 @@
+// Write a javascript function that takes a list and return a new list with unique elements of the list.

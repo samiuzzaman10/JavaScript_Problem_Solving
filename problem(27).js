@@ -1,0 +1,1 @@
+// Write a javascript function to multiply all the numbers in a list.

@@ -1,0 +1,1 @@
+// Write a javascript function that accepts a string and calculates the number of uppercase letter and lowercase latters.
